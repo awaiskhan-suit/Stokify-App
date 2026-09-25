@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663407564579",
+    "project_id": "stokify-6c38c",
+    "storage_bucket": "stokify-6c38c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663407564579:android:571e0d27e3fe784ff59e96",
+        "android_client_info": {
+          "package_name": "com.example.stokify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Dc5QU-pnD6zfQ0xCpXF5wqhHYVRRFyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
